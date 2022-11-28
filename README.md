@@ -1,1 +1,1 @@
-My Css-project link : https://github.com/tanitani5504/Css-project.git
+My Css-project link : https://tanitani5504.github.io/Css-project/index.html
